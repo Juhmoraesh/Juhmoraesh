@@ -1,7 +1,6 @@
 - 👋 Ola, sou a @Julia Moraes
 - 👀 Tenho curiosidade em aprender paginas na web.
 - 🌱 Eu estou aprendendo atualmente a programar jogos no Scratch e em Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 Voces podem entrar em contato comigo atravez do email @julia.tertuliano.souza@escola.pr.gov.br
 
 <!---
